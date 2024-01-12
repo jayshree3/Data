@@ -17,7 +17,7 @@ public class Practice_Program
 	}
 	public Branch1()
 	{
-         System.out.println("Branch---");
+         System.out.println("Branch1---");
 		
 	}
 			 
