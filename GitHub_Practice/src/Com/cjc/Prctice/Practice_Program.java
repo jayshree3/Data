@@ -14,13 +14,7 @@ public class Practice_Program
 	{
          System.out.println("Branch---");
 		
-	}
-	public Branch1()
-	{
-         System.out.println("BranchTest---");
-		
-	}
-			 
+	}		 
 	public static void main(String[] args) 
 	{
 		System.out.println("Welcome CJC");
