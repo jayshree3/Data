@@ -5,7 +5,7 @@ public class Practice_Program
 	
 	public Branch()
 	{
-         System.out.println("Branch---");
+         System.out.println("--Branch---");
 		
 
 	}
