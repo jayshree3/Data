@@ -14,6 +14,7 @@ public class Practice_Program
 	{
          System.out.println("Branch---");
 		
+
 	}
 	public Branch1()
 	{
@@ -21,6 +22,7 @@ public class Practice_Program
 		
 	}
 			 
+	}		 
 	public static void main(String[] args) 
 	{
 		System.out.println("Welcome CJC");
