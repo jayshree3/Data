@@ -10,6 +10,11 @@ public class Practice_Program
 	{
 		System.out.println("Karande");
 	}
+	public Branch()
+	{
+         System.out.println("Branch---");
+		
+	}
 			 
 	public static void main(String[] args) 
 	{
